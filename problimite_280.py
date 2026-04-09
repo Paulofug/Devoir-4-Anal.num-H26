@@ -1,5 +1,5 @@
 import numpy as np
-from tridiagonal import solve_tridiagonal
+from tridiagonal_280 import solve_tridiagonal
 
 def problimite(h, P, Q, R, a, b, alpha, beta):
     """
