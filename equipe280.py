@@ -62,7 +62,7 @@ ax1.legend()
 ax1.grid(True)
 plt.tight_layout()
 plt.savefig('figure1.png', dpi=150)
-plt.show()
+
  
  
 # ============================================================
